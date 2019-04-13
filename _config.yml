@@ -1,7 +1,7 @@
 # Site settings
 title: My Personal and Career Portfolio
 description: A site to record my experiences
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site
 
 # User settings
