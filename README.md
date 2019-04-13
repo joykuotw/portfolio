@@ -1,6 +1,6 @@
 # My Porfolio
 
-Joy Shan-Chun Kuo
+Joy Shan-Chun Kuo's Personal and Career Portfolio.
 
 ## License
 

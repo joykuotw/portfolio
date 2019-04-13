@@ -1,13 +1,13 @@
 {
-  "name": "particle",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Personal and Career Portfolio",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
-  "license": "ISC",
+  "author": "Joy Shan-Chun Kuo",
+  "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
