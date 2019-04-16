@@ -2,7 +2,6 @@
 title: My Personal and Career Portfolio
 description: A site to record my experiences
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: Joy Shan-Chun Kuo
@@ -11,9 +10,5 @@ email: shanchun.kuo@geovation.uk
 twitter_username: joykuotw
 linkedin_username: joy-shan-chun-kuo
 github_username: joykuotw
-
-# Google-analytics
-google-analytics:
-  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
